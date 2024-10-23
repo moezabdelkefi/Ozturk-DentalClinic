@@ -20,11 +20,7 @@ const HeaderSidebarMenu = ({
       <div className="attr-right">
         <div className="attr-nav flex">
           <ul>
-            <li className="search">
-              <Link to={void 0} onClick={searchOpen}>
-                <i className="fa-solid fa-search"></i>
-              </Link>
-            </li>
+         
             <li className="side-menu">
               <Link to={void 0} onClick={addClasses}>
                 <span className="bar-1"></span>

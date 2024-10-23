@@ -180,7 +180,6 @@ const HeaderV4 = ({ logoColor = false }) => {
             isSticky ? "sticked" : "no-background"
           }`}
         >
-          <HeaderSearch openSearch={openSearch} searchClose={searchClose} />
           <div className="container d-flex justify-content-between align-items-center">
             <HeaderLogoV3 logoColor={logoColor} openMenu={openMenu} />
             <MainMenu

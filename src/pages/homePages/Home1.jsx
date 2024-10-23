@@ -15,7 +15,8 @@ import HeaderV2 from "../../components/header/HeaderV2";
 import { FloatingWhatsApp } from "react-floating-whatsapp";
 import HeaderV4 from "../../components/header/HeaderV4";
 import ProjectCarouselContent from "../../components/project/ProjectCarouselContent";
-
+import ProjectDeal from "../project/ProjectDeal";
+import logo from '../../../public/img/logo/logo.png';
 const Home1 = () => {
   return (
     <>
@@ -24,7 +25,7 @@ const Home1 = () => {
         accountName="Taksim Medical Clinic"
         statusMessage="We are available to chat!"
         chatMessage="Hello! How can we assist you today?"
-        avatar=""
+        avatar={logo}
         darkMode={false}
         buttonStyle={{ left: "20px" }}
         chatboxStyle={{
@@ -37,12 +38,14 @@ const Home1 = () => {
       />
       <HeaderV4 logoColor={true} />
       <BannerV4 />
+
       <AboutV2 />
       <ProjectV1 />
       <BannerV1 />
       <ServicesV2 />
       <ProjectCarouselContent />
       <AboutV1 />
+      <ProjectDeal />
       <ProcessV1 />
       <TeamV1 />
       <TestimonialV1 />
