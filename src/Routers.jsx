@@ -36,19 +36,19 @@ const Routers = () => {
         <>
             <Routes>
                 <Route path='/' element={<Home1 />}></Route>
-                <Route path='/home-2' element={<Home2 />}></Route>
+                {/* <Route path='/home-2' element={<Home2 />}></Route>
                 <Route path='/home-3' element={<Home3 />}></Route>
                 <Route path='/business' element={<Business />}></Route>
                 <Route path='/home-1-dark' element={<Home1Dark />}></Route>
                 <Route path='/home-2-dark' element={<Home2Dark />}></Route>
                 <Route path='/home-3-dark' element={<Home3Dark />}></Route>
                 <Route path='/business-dark' element={<BusinessDark />}></Route>
-                <Route path='/Webdev' element={<Webdev />}></Route>
+                <Route path='/Webdev' element={<Webdev />}></Route> */}
                 {/* <Route path='/services' element={<Services />}></Route>
                 {/* <Route path='/services-3' element={<Services3 />}></Route>
                 <Route path='/services-details/:id' element={<ServicesDetails />}></Route>
                 <Route path='/services-details' element={<Navigate to='/services-details/1' />}></Route> */}
-                <Route path='/project-2-column' element={<Project2Column />}></Route>
+                {/* <Route path='/project-2-column' element={<Project2Column />}></Route>
                 <Route path='/project-3-column' element={<Project3Column />}></Route>
                 <Route path='/project-carousel' element={<ProjectCarousel />}></Route>
                 <Route path='/project-details/:id' element={<ProjectDetails />}></Route>
@@ -68,7 +68,7 @@ const Routers = () => {
                 <Route path='/blog-single/:id' element={<BlogSingle />}></Route>
                 <Route path='/blog-single' element={<Navigate to='/blog-single/1' />}></Route>
                 <Route path='/blog-single-sidebar/:id' element={<BlogSingleSidebar />}></Route>
-                <Route path='/blog-single-sidebar/' element={<Navigate to='/blog-single-sidebar/1' />}></Route>
+                <Route path='/blog-single-sidebar/' element={<Navigate to='/blog-single-sidebar/1' />}></Route> */}
                 <Route path='*' element={<Error404 />}></Route>
             </Routes>
         </>
