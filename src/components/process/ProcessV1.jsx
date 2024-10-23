@@ -5,13 +5,13 @@ import SingleProcessV1 from './SingleProcessV1';
 const ProcessV1 = ({ processClass }) => {
     return (
         <>
-            <div className={`process-style-one-area text-center default-padding-bottom ${processClass}`}>
+            <div className={`process-style-one-area text-center default-padding-bottom mt-120 ${processClass}`}>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8 offset-lg-2">
                             <div className="site-heading text-center">
-                                <h5 className="sub-title">How we work</h5>
-                                <h2 className="title">Brighter future when <br /> strategically more prepared</h2>
+                                <h5 className="sub-title">Our Approach</h5>
+                                <h2 className="title">Creating brighter smiles through thoughtful preparation.</h2>
                             </div>
                         </div>
                     </div>

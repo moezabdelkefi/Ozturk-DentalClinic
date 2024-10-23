@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderV5 from '../../components/header/HeaderV5';
+import HeaderV2 from '../../components/header/HeaderV2';
 import BreadCrumb from '../../components/breadCrumb/BreadCrumb';
 import TeamDetailsContent from '../../components/team/TeamDetailsContent';
 import FooterV1 from '../../components/footer/FooterV1';
@@ -13,7 +13,7 @@ const TeamDetails = () => {
 
     return (
         <>
-            <HeaderV5 />
+            <HeaderV2 />
             <BreadCrumb breadCrumb="team-details" title1="Team Details" bottomSpace="pb-0" />
             <TeamDetailsContent teamInfo={data} />
             <FooterV1 />

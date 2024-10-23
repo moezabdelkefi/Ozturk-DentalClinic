@@ -9,7 +9,7 @@ import TeamV1 from '../../components/team/TeamV2';
 import TestimonialV1 from '../../components/testimonial/TestimonialV1';
 import BlogV1 from '../../components/blog/BlogV1';
 import FooterV1 from '../../components/footer/FooterV1';
-import HeaderV1 from '../../components/header/HeaderV1';
+import HeaderV2 from '../../components/header/HeaderV2';
 import { useEffect } from 'react';
 
 const Home1Dark = () => {
@@ -24,7 +24,7 @@ const Home1Dark = () => {
 
     return (
         <>
-            <HeaderV1 headerClass="dark" logoColor={true} />
+            <HeaderV2 headerClass="dark" logoColor={true} />
             <BannerV1 />
             <ServicesV1 />
             <AboutV1 />

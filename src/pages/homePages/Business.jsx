@@ -8,13 +8,13 @@ import WhyChooseUsV3 from '../../components/whyChoose/WhyChooseUsV3';
 import ContactV1 from '../../components/contact/ContactV1';
 import BlogV1 from '../../components/blog/BlogV1';
 import FooterV1 from '../../components/footer/FooterV1';
-import HeaderV4 from '../../components/header/HeaderV4';
+import HeaderV2 from '../../components/header/HeaderV2';
 
 const Business = () => {
     return (
         <>
             <div className="wrapper">
-                <HeaderV4 logoColor={true} />
+                <HeaderV2 logoColor={true} />
                 <BannerV4 />
                 <AboutV3 />
                 <ServiceV3 />

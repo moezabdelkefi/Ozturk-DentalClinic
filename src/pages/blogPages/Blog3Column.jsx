@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderV5 from '../../components/header/HeaderV5';
+import HeaderV2 from '../../components/header/HeaderV2';
 import BreadCrumb from '../../components/breadCrumb/BreadCrumb';
 import Blog3ColumnContent from '../../components/blog/Blog3ColumnContent';
 import FooterV1 from '../../components/footer/FooterV1';
@@ -7,7 +7,7 @@ import FooterV1 from '../../components/footer/FooterV1';
 const Blog3Column = () => {
     return (
         <>
-            <HeaderV5 />
+            <HeaderV2 />
             <BreadCrumb breadCrumb="blog-3-column" title1="Blog Grid" bottomSpace="pb-0" />
             <Blog3ColumnContent />
             <FooterV1 />

@@ -22,9 +22,9 @@ const SingleBannerV4 = ({ banner }) => {
                         </div>
                     </div>
                 </div>
-                <div className="banner-four-shape">
+                {/* <div className="banner-four-shape">
                     <img src={`/img/shape/${shape}`} alt="Image Not Found" />
-                </div>
+                </div> */}
             </div>
         </>
     );

@@ -195,10 +195,6 @@ const HeaderV4 = ({ logoColor = false }) => {
               addClasses={addClasses}
               searchOpen={searchOpen}
             />
-            <label className="switch ms-3">
-              <input type="checkbox" checked={isDarkMode} onChange={toggleDarkMode} />
-              <span className="slider"></span>
-            </label>
           </div>
           <div className={`overlay-screen ${isOpen ? "opened" : ""}`}></div>
         </nav>

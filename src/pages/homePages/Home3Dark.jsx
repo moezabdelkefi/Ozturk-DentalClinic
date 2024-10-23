@@ -10,7 +10,7 @@ import TestimonialV1 from '../../components/testimonial/TestimonialV1';
 import TeamV1 from '../../components/team/TeamV2';
 import ContactV1 from '../../components/contact/ContactV1';
 import FooterV1 from '../../components/footer/FooterV1';
-import HeaderV3 from '../../components/header/HeaderV3';
+import HeaderV2 from '../../components/header/HeaderV2';
 
 const Home3Dark = () => {
 
@@ -24,7 +24,7 @@ const Home3Dark = () => {
 
     return (
         <>
-            <HeaderV3 logoColor={true} />
+            <HeaderV2 logoColor={true} />
             <BlogV3 />
             <FeatureV1 />
             <WhyChooseUsV3 />

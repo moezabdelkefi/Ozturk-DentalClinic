@@ -1,62 +1,62 @@
 [
-    {
-        "id": 1,
-        "thumb": "4.png",
-        "text": "Comparison new entertain melancholy son themselves.",
-        "serviceName": "Content Marketing",
-        "tag": "Marketing",
-        "serviceLink": "services-details",
-        "icon": "fa-solid fa-arrow-right",
-        "shape": "15.webp"
-    },
-    {
-        "id": 2,
-        "thumb": "5.png",
-        "text": "Comparison new entertain melancholy son themselves.",
-        "serviceName": "Social Marketing",
-        "tag": "Media",
-        "serviceLink": "services-details",
-        "icon": "fa-solid fa-arrow-right",
-        "shape": "15.webp"
-    },
-    {
-        "id": 3,
-        "thumb": "6.png",
-        "text": "Comparison new entertain melancholy son themselves.",
-        "serviceName": "App Development",
-        "tag": "Software",
-        "serviceLink": "services-details",
-        "icon": "fa-solid fa-arrow-right",
-        "shape": "15.webp"
-    },
-    {
-        "id": 4,
-        "thumb": "7.png",
-        "text": "Comparison new entertain melancholy son themselves.",
-        "serviceName": "SEO Optimization",
-        "tag": "Optimized",
-        "serviceLink": "services-details",
-        "icon": "fa-solid fa-arrow-right",
-        "shape": "15.webp"
-    },
-    {
-        "id": 5,
-        "thumb": "8.png",
-        "text": "Comparison new entertain melancholy son themselves.",
-        "serviceName": "PPC Advertising",
-        "tag": "Advertisement",
-        "serviceLink": "services-details",
-        "icon": "fa-solid fa-arrow-right",
-        "shape": "15.webp"
-    },
-    {
-        "id": 6,
-        "thumb": "9.png",
-        "text": "Comparison new entertain melancholy son themselves.",
-        "serviceName": "Digital Marketing",
-        "tag": "Agency",
-        "serviceLink": "services-details",
-        "icon": "fa-solid fa-arrow-right",
-        "shape": "15.webp"
-    }
+  {
+    "id": 1,
+    "thumb": "icon1.png",
+    "text": "mplants are very durable and will last many years. With good care, implants last a lifetime.",
+    "serviceName": "Dental Implant",
+    "tag": "Marketing",
+    "serviceLink": "",
+    "icon": "",
+    "shape": ""
+  },
+  {
+    "id": 2,
+    "thumb": "icon2.png",
+    "text": "More Comfortable: Removable aligners are more comfortable than traditional braces.",
+    "serviceName": "Immediate Implant",
+    "tag": "Media",
+    "serviceLink": "",
+    "icon": "",
+    "shape": ""
+  },
+  {
+    "id": 3,
+    "thumb": "icon3.png",
+    "text": "Restore the function of your teeth like chewing and speaking properly, if you are missing one or more teeth",
+    "serviceName": "Dental Crowns & Bridges",
+    "tag": "Software",
+    "serviceLink": "",
+    "icon": "",
+    "shape": ""
+  },
+  {
+    "id": 4,
+    "thumb": "icon4.png",
+    "text": "Relieve your pain, save your teeth and keep you smiling and eating your favourite foods.",
+    "serviceName": "Root Canal Treatment",
+    "tag": "",
+    "serviceLink": "",
+    "icon": "",
+    "shape": ""
+  },
+  {
+    "id": 5,
+    "thumb": "icon5.png",
+    "text": "Get what is best for you by consulting who are best in the field",
+    "serviceName": "Veneers",
+    "tag": "",
+    "serviceLink": "",
+    "icon": "",
+    "shape": ""
+  },
+  {
+    "id": 6,
+    "thumb": "icon6.png",
+    "text": "Get you a brighter, more appealing smile.A whiter smile with laser whitening",
+    "serviceName": "Teeth Whitening",
+    "tag": "Agency",
+    "serviceLink": "",
+    "icon": "",
+    "shape": ""
+  }
 ]

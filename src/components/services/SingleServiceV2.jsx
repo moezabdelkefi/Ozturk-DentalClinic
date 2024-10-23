@@ -12,11 +12,11 @@ const SingleServiceV2 = ({ service }) => {
                 </div>
                 <p>{text}</p>
                 <h4><Link to={`/${serviceLink}/${id}#`}>{serviceName}</Link></h4>
-                <span>{tag}</span>
-                <Link to={`/${serviceLink}/${id}#`} className="icon-btn"><i className={icon}></i></Link>
-                <div className="shape">
+                {/* <span>{tag}</span> */}
+                {/* <Link to={`/${serviceLink}/${id}#`} className="icon-btn"><i className={icon}></i></Link> */}
+                {/* <div className="shape">
                     <img src={`/img/shape/${shape}`} alt="Image Not Found" />
-                </div>
+                </div> */}
             </div>
         </>
     );

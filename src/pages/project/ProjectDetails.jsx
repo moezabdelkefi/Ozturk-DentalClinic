@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderV5 from '../../components/header/HeaderV5';
+import HeaderV2 from '../../components/header/HeaderV2';
 import BreadCrumb from '../../components/breadCrumb/BreadCrumb';
 import ProjectDetailsContent from '../../components/project/ProjectDetailsContent';
 import FooterV1 from '../../components/footer/FooterV1';
@@ -13,7 +13,7 @@ const ProjectDetails = () => {
 
     return (
         <>
-            <HeaderV5 />
+            <HeaderV2 />
             <BreadCrumb breadCrumb="project-details" title1="Search engine optimization (SEO)" bottomSpace="pb-0" />
             <ProjectDetailsContent projectInfo={data} />
             <FooterV1 />

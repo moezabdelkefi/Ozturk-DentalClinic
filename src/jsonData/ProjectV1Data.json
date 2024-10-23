@@ -1,56 +1,50 @@
 [
     {
         "id": 1,
-        "thumb": "1.jpg",
+        "thumb": "service1.jpg",
         "thumbFull": "1-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Marketing",
-        "title": "Digital Marketing",
+        "projectLink": "",
+        "subTitle": "Veener",
         "shape": "10.png"
     },
     {
         "id": 2,
-        "thumb": "2.jpg",
+        "thumb": "service2.jpg",
         "thumbFull": "2-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Digital",
-        "title": "Development Agency",
+        "projectLink": "",
+        "subTitle": "hollywood smile",
         "shape": "10.png"
     },
     {
         "id": 3,
-        "thumb": "3.jpg",
+        "thumb": "service3.jpg",
         "thumbFull": "3-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Promotion",
-        "title": "Data Scientist",
+        "projectLink": "",
+        "subTitle": "Crowns & Bridges",
         "shape": "10.png"
     },
     {
         "id": 4,
-        "thumb": "4.jpg",
-        "thumbFull": "4-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Development",
-        "title": "Benefits Research",
+        "thumb": "service4.jpg",
+        "thumbFull": "5-full.jpg",
+        "projectLink": "",
+        "subTitle": "Teeth Whitening",
         "shape": "10.png"
     },
     {
         "id": 5,
-        "thumb": "5.jpg",
+        "thumb": "service5.jpg",
         "thumbFull": "5-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Research",
-        "title": "Content Optimization",
+        "projectLink": "",
+        "subTitle": "Dental Implant",
         "shape": "10.png"
     },
     {
         "id": 6,
-        "thumb": "6.jpg",
+        "thumb": "service6.jpg",
         "thumbFull": "6-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Digital",
-        "title": "Development Agency",
+        "projectLink": "",
+        "subTitle": "Root Canal Treatment",
         "shape": "10.png"
     }
 ]

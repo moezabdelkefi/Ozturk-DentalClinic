@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "thumb": "8.jpg",
-        "subTitle": "Meet Consulting",
-        "title": "Financial Analysis Developing Meeting.",
-        "text": "We create relationship of trust with our customer by helping your company grow.",
-        "btnText": "Apply Now",
-        "btnLink": "contact-us",
-        "shape": "banner-shape.png"
+        "thumb": "banner1.jpeg",
+        "subTitle": "Comprehensive Care",
+        "title": "Expert Dental Checkups and Cleanings",
+        "text": "We ensure your smile stays healthy with personalized checkups and thorough cleanings. Trust our experienced team for the best dental care.",
+        "btnText": "Book Appointment",
+        "btnLink": "book-now",
+        "shape": "dental-shape.png"
     },
     {
         "id": 2,
-        "thumb": "6.jpg",
-        "subTitle": "Coaching & Consulting",
-        "title": "Strategies for Enduring Success",
-        "text": "We create relationship of trust with our customer by helping your company grow.",
-        "btnText": "Apply Now",
-        "btnLink": "contact-us",
-        "shape": "banner-shape.png"
+        "thumb": "banner2.jpeg",
+        "subTitle": "Advanced Treatments",
+        "title": "Modern Solutions for Dental Health",
+        "text": "Our clinic provides advanced dental treatments using the latest technology to ensure your dental health is in top shape.",
+        "btnText": "Learn More",
+        "btnLink": "services",
+        "shape": "dental-shape.png"
     }
 ]

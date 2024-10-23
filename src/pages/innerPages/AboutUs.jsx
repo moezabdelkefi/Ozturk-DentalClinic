@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderV5 from '../../components/header/HeaderV5';
+import HeaderV2 from '../../components/header/HeaderV2';
 import BreadCrumb from '../../components/breadCrumb/BreadCrumb';
 import AboutV2 from '../../components/about/AboutV2';
 import WhyChooseUsV2 from '../../components/whyChoose/WhyChooseUsV2';
@@ -10,7 +10,7 @@ import FooterV1 from '../../components/footer/FooterV1';
 const AboutUs = () => {
     return (
         <>
-            <HeaderV5 />
+            <HeaderV2 />
             <BreadCrumb breadCrumb="about-us" title1="About Us" bottomSpace="pb-0" />
             <AboutV2 />
             <WhyChooseUsV2 />

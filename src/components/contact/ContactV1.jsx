@@ -5,7 +5,7 @@ import ContactInfo from './ContactInfo';
 const ContactV1 = ({ contactClass }) => {
     return (
         <>
-            <div className={`contact-area overflow-hidden default-padding ${contactClass}`} style={{ backgroundImage: "url(/img/shape/map.png)" }}>
+            <div id="contact-us" className={`contact-area overflow-hidden default-padding ${contactClass}`} style={{ backgroundImage: "url(/img/shape/map.png)" }}>
                 <div className="shape-right-bottom">
                     <img src="/img/shape/18.png" alt="Shape" />
                 </div>

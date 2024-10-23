@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "icon1": "icon1.png",
+        "icon1Dark": "target.png",
+        "thumb": "1-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "mplants are very durable and will last many years. With good care, implants last a lifetime.",
+        "title": "Dental Implant",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 2,
+        "icon1": "icon2.png",
+        "icon1Dark": "envelope.png",
+        "thumb": "2-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "More Comfortable: Removable aligners are more comfortable than traditional braces.",
+        "title": "Immediate Implant",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 3,
+        "icon1": "icon3.png",
+        "icon1Dark": "analytics.png",
+        "thumb": "3-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Restore the function of your teeth like chewing and speaking properly, if you are missing one or more teeth",
+        "title": "Dental Crowns & Bridges",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 4,
+        "icon1": "icon4.png",
+        "icon1Dark": "4.png",
+        "thumb": "4-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Relieve your pain, save your teeth and keep you smiling and eating your favourite foods.",
+        "title": "Root Canal Treatment",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 5,
+        "icon1": "icon5.png",
+        "icon1Dark": "5.png",
+        "thumb": "5-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Get what is best for you by consulting who are best in the field",
+        "title": "Veneers",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 6,
+        "icon1": "icon6.png",
+        "icon1Dark": "6.png",
+        "thumb": "6-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Get you a brighter, more appealing smile.A whiter smile with laser whitening",
+        "title": "Teeth Whitening",
+        "serviceLink": "services-details"
+    }
+]

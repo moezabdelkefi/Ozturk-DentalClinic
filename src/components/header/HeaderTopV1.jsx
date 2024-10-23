@@ -14,7 +14,7 @@ const HeaderTopV1 = () => {
                                     </div>
                                     <div className="info">
                                         <strong>Address</strong>
-                                        70240 Avenue of the Moon, California
+                                        14/1 Mete Road Ayanoğlu business center - Gümüşsuyu . (Taksim Square) Beyoğlu - İstanbul
                                     </div>
                                 </li>
                                 <li>
@@ -23,7 +23,7 @@ const HeaderTopV1 = () => {
                                     </div>
                                     <div className="info">
                                         <strong>Phone</strong>
-                                        <a href="tel:4733378901">+4733378901</a>
+                                        <a href="tel:4733378901">+905439086696</a>
                                     </div>
                                 </li>
                             </ul>
@@ -35,7 +35,7 @@ const HeaderTopV1 = () => {
                                 </div>
                                 <div className="info">
                                     <p>Have any Questions?</p>
-                                    <h5><a href="mailto:info@crysta.com">info@bestup.com</a></h5>
+                                    <h5><a href="mailto:info@taksimclinics.com">info@taksimclinics.com</a></h5>
                                 </div>
                             </div>
                         </div>
