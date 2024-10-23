@@ -20,7 +20,7 @@ const Home1 = () => {
   return (
     <>
       <FloatingWhatsApp
-        phoneNumber="90 501 355 0300"
+        phoneNumber="905439086696"
         accountName="Taksim Medical Clinic"
         statusMessage="We are available to chat!"
         chatMessage="Hello! How can we assist you today?"

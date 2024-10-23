@@ -16,7 +16,7 @@ const SingleBannerV4 = ({ banner }) => {
                                 <h2>{title}</h2>
                                 <p>{text}</p>
                                 <div className="button">
-                                    <Link className="btn btn-theme btn-md animation" to={`/${btnLink}#`}>{btnText}</Link>
+                                    <Link className="btn btn-theme btn-md animation" to={`#${btnLink}`}>{btnText}</Link>
                                 </div>
                             </div>
                         </div>
