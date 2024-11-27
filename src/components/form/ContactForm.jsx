@@ -11,8 +11,8 @@ const ContactForm = () => {
   return (
     <>
       <div className="contact-form-style-one">
-        <h4 className="sub-title">Have Questions?</h4>
-        <h2 className="title">Send us a Massage</h2>
+        <h4 className="sub-title">Vous avez des questions ?</h4>
+        <h2 className="title">Envoyez-nous un massage</h2>
         <form className="contact-form contact-form" onSubmit={handleForm}>
           <div className="row">
             <div className="col-lg-12">
@@ -21,7 +21,7 @@ const ContactForm = () => {
                   className="form-control"
                   id="name"
                   name="name"
-                  placeholder="Name"
+                  placeholder="Nom"
                   type="text"
                   autoComplete="off"
                   required
@@ -51,7 +51,7 @@ const ContactForm = () => {
                   className="form-control no-arrows"
                   id="phone"
                   name="phone"
-                  placeholder="Phone"
+                  placeholder="telephone"
                   type="number"
                   autoComplete="off"
                   required
@@ -67,7 +67,7 @@ const ContactForm = () => {
                   className="form-control"
                   id="comments"
                   name="comments"
-                  placeholder="Tell Us"
+                  placeholder="Dites-nous"
                   autoComplete="off"
                   required
                 ></textarea>
@@ -77,7 +77,7 @@ const ContactForm = () => {
           <div className="row">
             <div className="col-lg-12">
               <button type="submit" name="submit" id="submit">
-                <i className="fa fa-paper-plane"></i> Get in Touch
+                <i className="fa fa-paper-plane"></i> Entrer en contact
               </button>
             </div>
           </div>

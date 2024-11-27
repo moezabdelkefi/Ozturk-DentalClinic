@@ -15,10 +15,9 @@ const SingleProjectV2 = ({ gallery }) => {
           <div className="content">
             <div className="info">
               <h4>
-                <Link to={`/${titleLink}/${id}#`}>{title}</Link>
+                <Link to={`/`}>{title}</Link>
               </h4>
             </div>
-            
           </div>
         </div>
       </div>

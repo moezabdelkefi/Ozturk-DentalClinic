@@ -2,8 +2,8 @@
   {
     "id": 1,
     "thumb": "icon2.png",
-    "text": "All of our doctors are graduates from the world's top universities.",
-    "serviceName": "Certified",
+    "text": "Tous nos médecins sont diplômés des meilleures universités du monde.",
+    "serviceName": "Certifié",
     "tag": "Marketing",
     "serviceLink": "",
     "icon": "",
@@ -12,8 +12,8 @@
   {
     "id": 2,
     "thumb": "icon1.png",
-    "text": "Our doctors are highly professional, and all of our patients praise their expertise.",
-    "serviceName": "Experience",
+    "text": "Nos médecins sont très professionnels et tous nos patients louent leur expertise.  ",
+    "serviceName": "Expérience",
     "tag": "Media",
     "serviceLink": "",
     "icon": "",
@@ -22,8 +22,8 @@
   {
     "id": 3,
     "thumb": "icon3.png",
-    "text": "Our doctors are highly professional, and all of our patients praise their expertise.",
-    "serviceName": "Professional",
+    "text": "Nos médecins sont très professionnels et tous nos patients louent leur expertise.",
+    "serviceName": "Professionnel",
     "tag": "Software",
     "serviceLink": "",
     "icon": "",
@@ -32,8 +32,8 @@
   {
     "id": 4,
     "thumb": "icon4.png",
-    "text": "Continuous support from the moment the patient enters our clinic until full recovery.",
-    "serviceName": "Support",
+    "text": "Accompagnement continu depuis l'entrée du patient dans notre clinique jusqu'à son rétablissement complet.",
+    "serviceName": "Accompagnement",
     "tag": "",
     "serviceLink": "",
     "icon": "",

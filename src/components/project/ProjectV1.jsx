@@ -34,14 +34,14 @@ const ProjectV1 = () => {
             <div className="row">
               <div className="col-xl-8 col-lg-6">
                 <div className="content-left">
-                  <h5 className="sub-title">What we offer</h5>
+                  <h5 className="sub-title">Ce que nous offrons</h5>
                   <h2 className="heading">
-                    Our clinic in Turkey offers a full range of dental
-                    treatments, including dental implants, and is equipped with
-                    advanced, state-of-the-art technology. Our team consists of
-                    some of the best dentists in Turkey, utilizing the latest
-                    medical techniques to ensure the highest quality of care and
-                    treatment.{" "}
+                    Notre clinique en Turquie propose une gamme complète de
+                    soins dentaires, y compris des implants dentaires, et est
+                    équipée d'une technologie de pointe. Notre équipe est
+                    composée de certains des meilleurs dentistes de Turquie,
+                    utilisant les dernières techniques médicales pour assurer la
+                    plus haute qualité de soins et de traitement.{" "}
                   </h2>
                 </div>
               </div>

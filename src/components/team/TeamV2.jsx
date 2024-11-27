@@ -13,13 +13,13 @@ const TeamV2 = ({ bgColor }) => {
       >
         <div className="container">
           <div className="row align-center">
-            <div className="col-xl-6 col-lg-12">
+            <div className="col-xl-9 col-lg-12">
               <div className="site-heading">
-                <h5 className="sub-title">Meet Our Specialist</h5>
+                <h5 className="sub-title">Rencontrez notre spécialiste</h5>
                 <h2 className="title">
-                  Our center's doctors are top experts in Turkey <br />{" "}
-                  specializing in cosmetic and dental implants with doctorate
-                  degrees.
+                  Les médecins de notre centre sont des experts de haut niveau
+                  en Turquie <br /> spécialisés dans les implants cosmétiques et
+                  dentaires et titulaires d'un doctorat.
                 </h2>
               </div>
             </div>

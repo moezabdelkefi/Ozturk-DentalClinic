@@ -36,7 +36,6 @@ const Routers = () => {
         <>
             <Routes>
                 <Route path='/' element={<Home1 />}></Route>
-                <Route path='/project-details/:id' element={<ProjectDetails />}></Route>
                 {/* <Route path='/home-2' element={<Home2 />}></Route>
                 <Route path='/home-3' element={<Home3 />}></Route>
                 <Route path='/business' element={<Business />}></Route>
@@ -52,6 +51,7 @@ const Routers = () => {
                 {/* <Route path='/project-2-column' element={<Project2Column />}></Route>
                 <Route path='/project-3-column' element={<Project3Column />}></Route>
                 <Route path='/project-carousel' element={<ProjectCarousel />}></Route>
+                <Route path='/project-details/:id' element={<ProjectDetails />}></Route>
                 <Route path='/project-details' element={<Navigate to='/project-details/1' />}></Route>
                 <Route path='/team' element={<Team />}></Route>
                 <Route path='/team-2' element={<Team2 />}></Route>

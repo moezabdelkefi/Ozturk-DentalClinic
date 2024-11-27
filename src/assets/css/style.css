@@ -4329,7 +4329,7 @@ ul.feature-fun-fact li:first-child {
 }
 
 .about-style-one.bg-dark {
-	padding: 120px 80px;
+	padding: 120px 50px;
 	margin-right: -23%;
 	z-index: 1;
 	position: relative;
@@ -8633,7 +8633,7 @@ footer .footer-bottom p {
 	/* About */
 	.about-style-one.bg-dark {
 		margin: 0;
-		padding: 50px 30px;
+		padding: 50px 20px;
 	}
 
 	.about-style-one .thumb {

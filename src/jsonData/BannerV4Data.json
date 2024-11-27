@@ -2,20 +2,20 @@
     {
         "id": 1,
         "thumb": "banner1.webp",
-        "subTitle": "Comprehensive Care",
-        "title": "Best Dental Clinic in Turkey",
-        "text": "We ensure your smile stays healthy with personalized checkups and thorough cleanings. Trust our experienced team for the best dental care.",
-        "btnText": "Book Appointment",
+        "subTitle": "Soins complets",
+        "title": "Meilleure clinique dentaire en Turquie",
+        "text": "Nous veillons à ce que votre sourire reste en bonne santé grâce à des examens personnalisés et des nettoyages approfondis. Faites confiance à notre équipe expérimentée pour les meilleurs soins dentaires.",
+        "btnText": "Prendre rendez-vous",
         "btnLink": "contact-us",
         "shape": "dental-shape.png"
     },
     {
         "id": 2,
         "thumb": "banner2.webp",
-        "subTitle": "Advanced Treatments",
-        "title": "Modern Solutions for Dental Health",
-        "text": "Our clinic provides advanced dental treatments using the latest technology to ensure your dental health is in top shape.",
-        "btnText": "Learn More",
+        "subTitle": "Traitements avancés",
+        "title": "Des solutions modernes pour la santé dentaire",
+        "text": "Notre clinique propose des traitements dentaires avancés utilisant les dernières technologies pour garantir que votre santé dentaire soit optimale.",
+        "btnText": "Apprendre encore plus",
         "btnLink": "about-us",
         "shape": "dental-shape.png"
     }

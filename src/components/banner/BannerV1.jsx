@@ -21,18 +21,19 @@ const BannerV1 = () => {
                   <div className="information">
                     <ReactWOW delay="500ms" duration="400ms">
                       <h2 className="fadeInUp">
-                        Our patients' <strong>results</strong>
+                        Les résultats <strong>de nos patients</strong>
                       </h2>
                     </ReactWOW>
                     <ReactWOW delay="900ms" duration="400ms">
                       <p className="fadeInUp">
-                        At Dr. Abdurrahman Ozturk’s clinic, we pride ourselves
-                        on delivering exceptional results in dental implants,
-                        cosmetic dentistry, and full-mouth rehabilitation.
-                        Below, you will find a collection of before and after
-                        photos showcasing the incredible transformations our
-                        patients have achieved through various dental
-                        procedures.
+                        À la clinique du Dr Abdurrahman Ozturk, nous sommes
+                        fiers d’offrir des résultats exceptionnels en matière
+                        d’implants dentaires, de dentisterie esthétique et de
+                        réhabilitation de la bouche entière. Vous trouverez
+                        ci-dessous une collection de photos avant et après
+                        illustrant les transformations incroyables que nos
+                        patients ont obtenues grâce à diverses procédures
+                        dentaires.
                       </p>
                     </ReactWOW>
                     <ReactWOW delay="1200ms" duration="400ms">
@@ -43,8 +44,8 @@ const BannerV1 = () => {
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          view instagram
-                        </Link> 
+                          voir instagram
+                        </Link>
                       </div>
                     </ReactWOW>
                   </div>

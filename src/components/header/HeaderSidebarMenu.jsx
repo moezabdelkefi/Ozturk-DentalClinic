@@ -41,11 +41,12 @@ const HeaderSidebarMenu = ({
           </div>
           <div className="widget">
             <p>
-              Our clinic is trusted by numerous medical centers that refer
-              patients to us from all over the world. We have successfully
-              performed many procedures and provided the best dental implant
-              treatments, ensuring outstanding results and high-quality medical
-              care for our patients.
+              Notre clinique bénéficie de la confiance de nombreux centres
+              médicaux qui nous adressent des patients du monde entier. Nous
+              avons réalisé avec succès de nombreuses interventions et fourni
+              les meilleurs traitements d'implants dentaires, garantissant des
+              résultats exceptionnels et des soins médicaux de haute qualité à
+              nos patients.
             </p>
           </div>
           <div className="widget address">
@@ -54,7 +55,7 @@ const HeaderSidebarMenu = ({
                 <li>
                   <div className="content">
                     <p>Address</p>
-                    <strong>Istanbul - Turkey</strong>
+                    <strong>Istanbul - Turquie</strong>
                   </div>
                 </li>
                 <li>
@@ -72,7 +73,7 @@ const HeaderSidebarMenu = ({
                 </li>
                 <li>
                   <div className="content">
-                    <p>Contact</p>
+                    <p>CONTACTEZ-NOUS</p>
                     <strong>
                       <a href="tel:+90 501 355 0300" className="color-para">
                         +90 536 063 0089
@@ -84,12 +85,12 @@ const HeaderSidebarMenu = ({
             </div>
           </div>
           <div className="widget newsletter">
-            <h4 className="title">CONTACT US</h4>
+            <h4 className="title">CONTACTEZ-NOUS</h4>
             <form onSubmit={handleEmail}>
               <div className="input-group stylish-input-group">
                 <input
                   type="email"
-                  placeholder="Enter your e-mail"
+                  placeholder="Entrez votre e-mail"
                   className="form-control"
                   name="email"
                   autoComplete="off"

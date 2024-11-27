@@ -11,38 +11,42 @@ const AboutV2 = () => {
                 <img src="/img/thumb/about.webp" alt="Image Not Found" />
                 <div className="experience">
                   <h2>
-                    Over
-                    <strong>15</strong> Years Experience
+                    plus
+                    <strong>15</strong> Années d'expérience
                   </h2>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 about-style-two pl-50 pl-md-15 pl-xs-15 mt-xs-40">
               <div className="about-two-info">
-                <h4 className="sub-title">About Us</h4>
-                <h2 className="title">A leading visionary in dental care.</h2>
-                <p>
-                  Committed to providing the latest dental solutions to ensure a
-                  healthy and lasting smile for every patient.
-                </p>
-                <p>
-                  Our clinic is licensed by all medical authorities of the
-                  Turkish government, and all our doctors have graduated from
-                  the world’s top universities.
-                </p>
+                <h4 className="sub-title">À propos de nous</h4>
                 <h2 className="title">
-                  Our clinic is licensed by the Turkish Ministry of Health.
+                  Un visionnaire de premier plan dans le domaine des soins
+                  dentaires.
                 </h2>
                 <p>
-                  Our clinic is licensed by all medical authorities of the
-                  Turkish government, and all our doctors have graduated from
-                  the world’s top universities.
+                  Nous nous engageons à fournir les dernières solutions
+                  dentaires pour assurer un sourire sain et durable à chaque
+                  patient.
                 </p>
                 <p>
-                  What sets us apart from others? We are doctors, not a
-                  marketing agency. From the moment you contact us, coordination
-                  will be directly handled by your doctor who will be treating
-                  you.
+                  Notre clinique est agréée par toutes les autorités médicales
+                  du gouvernement turc et tous nos médecins sont diplômés des
+                  meilleures universités du monde.
+                </p>
+                <h2 className="title">
+                  Notre clinique est agréée par le ministère turc de la Santé.
+                </h2>
+                <p>
+                  Notre clinique est agréée par toutes les autorités médicales
+                  du gouvernement turc et tous nos médecins sont diplômés des
+                  meilleures universités du monde.
+                </p>
+                <p>
+                  Qu'est-ce qui nous distingue des autres ? Nous sommes des
+                  médecins, pas une agence de marketing. Dès que vous nous
+                  contactez, la coordination sera directement assurée par votre
+                  médecin qui vous soignera.
                 </p>
                 <div className="image-container">
                   <img src="/img/minlogo/minlogo.webp" alt="Image 1" />

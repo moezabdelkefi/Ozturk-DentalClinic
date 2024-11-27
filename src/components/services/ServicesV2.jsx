@@ -13,14 +13,14 @@ const ServicesV2 = () => {
                 className="service-style-two-heading bg-theme bg-cover text-light"
                 style={{ backgroundImage: "url(/img/shape/banner-3.webp)" }}
               >
-                <h5 className="sub-title">Why Choose Us </h5>
+                <h5 className="sub-title">Pourquoi nous choisir</h5>
                 <h2 className="title fs-2">
                   {" "}
-                  Caring for all your dental needs.
+                  Nous prenons soin de tous vos besoins dentaires.
                 </h2>
                 <p>
-                  We offer you the best treatment that ensures health, safety,
-                  and aesthetics.
+                  Nous vous offrons le meilleur traitement qui assure santé,
+                  sécurité et esthétique.
                 </p>
               </div>
             </div>

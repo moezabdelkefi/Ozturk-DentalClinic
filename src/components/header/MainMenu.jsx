@@ -16,19 +16,19 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
         </button>
         <ul className="nav navbar-nav navbar-center">
           <li className="dropdown megamenu-fw">
-            <Link to="#about-us" smooth>About Us</Link>
+            <Link to="#about-us" smooth>À propos de nous</Link>
           </li>
           <li className="dropdown">
             <Link to="#services" smooth>Services</Link>
           </li>
           <li>
-            <Link to="#gallery" smooth>Gallery</Link>
+            <Link to="#gallery" smooth>Galerie</Link>
           </li>
           <li>
-            <Link to="#why-choose-taksim" smooth>Why Choose Us</Link>
+            <Link to="#why-choose-taksim" smooth>Pourquoi nous choisir</Link>
           </li>
           <li>
-            <Link to="#contact-us" smooth>Contact Us</Link>
+            <Link to="#contact-us" smooth>Contactez-nous</Link>
           </li>
         </ul>
       </div>

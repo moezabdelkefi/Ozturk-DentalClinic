@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "text": "I traveled from the United States to Istanbul for dental implants. The service at Dr. Abdurrahman Öztürk Dental Clinic was top-notch, and the staff made me feel at home.",
+    "text": "Je suis venu des États-Unis à Istanbul pour des implants dentaires. Le service à la clinique dentaire du Dr Abdurrahman Öztürk était exceptionnel, et l'équipe m'a fait me sentir comme chez moi.",
     "name": "John Doe",
-    "designation": "Business Consultant"
+    "designation": "Consultant en affaires"
   },
   {
     "id": 2,
-    "text": "I was amazed by the professionalism and care I received. The clinic's modern facilities and skilled doctors exceeded my expectations. Highly recommended!",
+    "text": "J'ai été impressionnée par le professionnalisme et les soins reçus. Les installations modernes de la clinique et les compétences des médecins ont dépassé mes attentes. Je recommande vivement !",
     "name": "Jane Smith",
-    "designation": "Marketing Specialist"
+    "designation": "Spécialiste en marketing"
   },
   {
     "id": 3,
-    "text": "My Hollywood smile transformation was beyond my dreams! Dr. Abdurrahman and his team provided exceptional care from start to finish.",
+    "text": "Ma transformation de sourire hollywoodien a dépassé mes rêves ! Le Dr Abdurrahman et son équipe ont offert des soins exceptionnels du début à la fin.",
     "name": "Alice Brown",
-    "designation": "Photographer"
+    "designation": "Photographe"
   },
   {
     "id": 4,
-    "text": "I came from Canada for cosmetic dentistry. The clinic's attention to detail and advanced techniques are unmatched. A big thank you to the entire team!",
+    "text": "Je suis venu du Canada pour de la dentisterie esthétique. L'attention aux détails et les techniques avancées de la clinique sont inégalées. Un grand merci à toute l'équipe !",
     "name": "Michael Johnson",
-    "designation": "Software Engineer"
+    "designation": "Ingénieur logiciel"
   },
   {
     "id": 5,
-    "text": "The clinic's warm welcome, clean environment, and exceptional results make it the best choice for dental care in Turkey. I couldn’t be happier!",
+    "text": "L'accueil chaleureux, l'environnement propre et les résultats exceptionnels de la clinique en font le meilleur choix pour les soins dentaires en Turquie. Je ne pourrais pas être plus heureux !",
     "name": "Sophia Williams",
-    "designation": "Teacher"
+    "designation": "Enseignante"
   },
   {
     "id": 6,
-    "text": "I was nervous about getting dental surgery, but the team reassured me and made the process smooth and pain-free. Fantastic experience!",
+    "text": "J'étais nerveux à l'idée d'une chirurgie dentaire, mais l'équipe m'a rassuré et a rendu le processus fluide et sans douleur. Une expérience fantastique !",
     "name": "Chris Evans",
     "designation": "Entrepreneur"
   }

@@ -13,13 +13,14 @@ const ProjectDeal = () => {
             <div className="col-lg-8 offset-lg-2">
               <div className="project-deal">
                 <h2 className="title">
-                Need Dental Care? <strong>Get in Touch</strong> <br /> & Transform Your Smile!
+                  Besoin de soins dentaires ? <strong>Contactez-nous</strong>{" "}
+                  <br /> et transformez votre sourire !
                 </h2>
                 <Link
                   className="btn mt-30 btn-md circle btn-gradient animation"
                   to="#contact-us"
                 >
-                  Send Message
+                  Envoyer un message
                 </Link>
               </div>
             </div>

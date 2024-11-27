@@ -35,20 +35,21 @@ const AboutV1 = () => {
                   <li>
                     <h5>Vision</h5>
                     <p>
-                      To be a leading dental clinic, providing top-quality care
-                      and innovative treatments, ensuring the best possible
-                      outcomes for our patients while promoting lifelong oral
-                      health and wellness.
+                      Être une clinique dentaire de premier plan, offrant des
+                      soins de qualité supérieure et des traitements innovants,
+                      garantissant les meilleurs résultats possibles pour nos
+                      patients tout en favorisant la santé bucco-dentaire et le
+                      bien-être tout au long de la vie.
                     </p>
                   </li>
                   <li>
                     <h5>Mission</h5>
                     <p>
-                      To provide exceptional dental care with a patient-centered
-                      approach, utilizing advanced technology and techniques. We
-                      aim to enhance the oral health and overall well-being of
-                      our patients through personalized treatment plans,
-                      compassion, and continuous improvement.
+                      Offrir des soins dentaires d'excellence, centrés sur le
+                      patient, avec des technologies de pointe. Nous visons à
+                      améliorer la santé bucco-dentaire et le bien-être grâce à
+                      des traitements personnalisés, une approche bienveillante
+                      et une quête constante d'amélioration.
                     </p>
                   </li>
                 </ul>
@@ -57,9 +58,9 @@ const AboutV1 = () => {
             <div className="col-xl-8 col-lg-12">
               <div className="about-style-one">
                 <h2 className="title pl-120 pl-md-0 pl-xs-0 mb-70 mb-md-40 mb-xs-30 mt-md-50 mt-xs-30">
-                  Caring for all
+                Prendre soin de tous
                   <br />
-                  <strong> your family’s dental needs.</strong>{" "}
+                  <strong> les besoins dentaires de votre famille.</strong>{" "}
                 </h2>
                 <div
                   className="thumb bg-cover"
@@ -71,21 +72,21 @@ const AboutV1 = () => {
                     contentLabel="Local Video"
                     style={{
                       content: {
-                        top: '50%',
-                        left: '50%',
-                        right: 'auto',
-                        bottom: 'auto',
-                        marginRight: '-50%',
-                        backgroundColor: 'transparent',
-                        border: 'none',
-                        borderRadius: '10px',
-                        transform: 'translate(-50%, -50%)',
-                        width: '90%',
-                        maxWidth: '800px',
-                        zIndex: '1000',
+                        top: "50%",
+                        left: "50%",
+                        right: "auto",
+                        bottom: "auto",
+                        marginRight: "-50%",
+                        backgroundColor: "transparent",
+                        border: "none",
+                        borderRadius: "10px",
+                        transform: "translate(-50%, -50%)",
+                        width: "90%",
+                        maxWidth: "800px",
+                        zIndex: "1000",
                       },
                       overlay: {
-                        zIndex: '1000',
+                        zIndex: "1000",
                       },
                     }}
                   >

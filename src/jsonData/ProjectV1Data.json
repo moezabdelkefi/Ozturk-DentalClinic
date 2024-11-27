@@ -4,7 +4,7 @@
     "thumb": "service1.webp",
     "thumbFull": "1-full.jpg",
     "projectLink": "",
-    "subTitle": "Oral and Maxillofacial Surgery",
+    "subTitle": "Chirurgie buccale et maxillo-faciale",
     "shape": "10.png"
   },
   {
@@ -12,7 +12,7 @@
     "thumb": "service2.webp",
     "thumbFull": "2-full.jpg",
     "projectLink": "",
-    "subTitle": "Prosthodontics",
+    "subTitle": "Prothèses dentaires",
     "shape": "10.png"
   },
   {
@@ -20,7 +20,7 @@
     "thumb": "service3.webp",
     "thumbFull": "3-full.jpg",
     "projectLink": "",
-    "subTitle": "Endodontics",
+    "subTitle": "Endodontie",
     "shape": "10.png"
   },
   {
@@ -28,7 +28,7 @@
     "thumb": "service4.webp",
     "thumbFull": "5-full.jpg",
     "projectLink": "",
-    "subTitle": "Periodontics",
+    "subTitle": "Parodontie",
     "shape": "10.png"
   },
   {
@@ -36,7 +36,7 @@
     "thumb": "service5.webp",
     "thumbFull": "5-full.jpg",
     "projectLink": "",
-    "subTitle": "Digital Dentistry",
+    "subTitle": "Dentisterie numérique",
     "shape": "10.png"
   },
   {
@@ -44,7 +44,7 @@
     "thumb": "service6.webp",
     "thumbFull": "6-full.jpg",
     "projectLink": "",
-    "subTitle": "Cosmetic Dentistry",
+    "subTitle": "Dentisterie esthétique",
     "shape": "10.png"
   },
   {
@@ -52,7 +52,7 @@
     "thumb": "service7.webp",
     "thumbFull": "6-full.jpg",
     "projectLink": "",
-    "subTitle": "Dental Implants",
+    "subTitle": "Implants dentaires",
     "shape": "10.png"
   }
 ]

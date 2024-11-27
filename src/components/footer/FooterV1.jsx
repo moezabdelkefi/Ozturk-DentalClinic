@@ -26,10 +26,11 @@ const FooterV1 = () => {
                 <div className="f-item about pr-50 pr-xs-0 pr-md-0">
                   <img className="logo" src="/img/logo/logo.webp" alt="Logo" />
                   <p>
-                    We offer a comprehensive range of dental services that meet
-                    the needs of every member of your family, from preventive
-                    care to advanced treatments. Our goal is to ensure the oral
-                    health and confident smiles of your family.
+                    Nous offrons une gamme complète de services dentaires qui
+                    répondent aux besoins de chaque membre de votre famille, des
+                    soins préventifs aux traitements avancés. Notre objectif est
+                    d'assurer la santé buccodentaire et les sourires confiants
+                    de votre famille.
                   </p>
                   <div className="footer-social mt-30">
                     <ul>
@@ -41,23 +42,23 @@ const FooterV1 = () => {
 
               <div className="col-lg-3 col-md-6 mt-50 footer-item pl-50 pl-md-15 pl-xs-15">
                 <div className="f-item link">
-                  <h4 className="widget-title">Our Departments</h4>
+                  <h4 className="widget-title">Nos départements</h4>
                   <ul>
                     <li>
-                      <Link to="#about-us">About</Link>
+                      <Link to="#about-us">À propos</Link>
                     </li>
                     <li>
                       <Link to="#services">Services</Link>
                     </li>
                     <li>
-                      <Link to="#gallery">Gallery</Link>
+                      <Link to="#gallery">Galerie</Link>
                     </li>
 
                     <li>
-                      <Link to="#why-choose-taksim">Why Choose Us</Link>
+                      <Link to="#why-choose-taksim">Pourquoi nous choisir</Link>
                     </li>
                     <li>
-                      <Link to="#contact-us">Contact Us</Link>
+                      <Link to="#contact-us">Contactez-nous</Link>
                     </li>
                   </ul>
                 </div>
@@ -65,12 +66,12 @@ const FooterV1 = () => {
 
               <div className="col-lg-3 col-md-6 footer-item mt-50">
                 <div className="f-item contact">
-                  <h4 className="widget-title">Contact Info</h4>
+                  <h4 className="widget-title">Coordonnées</h4>
                   <ul>
                     <li>
                       <div className="content">
                         <strong>Address:</strong>
-                        Istanbul - Turkey
+                        Istanbul - Turquie
                       </div>
                     </li>
                     <li>
@@ -83,7 +84,7 @@ const FooterV1 = () => {
                     </li>
                     <li>
                       <div className="content">
-                        <strong>Phone:</strong>
+                        <strong>Téléphone:</strong>
                         <a href="tel:2151234567">+90 536 063 0089</a>
                       </div>
                     </li>
@@ -92,24 +93,24 @@ const FooterV1 = () => {
               </div>
               <div className="col-lg-3 col-md-6 footer-item mt-50">
                 <div className="f-item contact">
-                  <h4 className="widget-title">We’re Available</h4>
+                  <h4 className="widget-title">Nous sommes disponibles</h4>
                   <ul>
                     <li>
                       <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Monday - Friday </strong>
-                        <span>08.00 AM - 07.00 PM</span>
+                        <strong className="me-3">Du lundi au vendredi </strong>
+                        <span>08.00 - 07.00</span>
                       </div>
                     </li>
                     <li>
                       <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Saturday</strong>
-                        <span>08.00 AM - 03. 00 PM</span>
+                        <strong className="me-3">Le samedi</strong>
+                        <span>08.00 - 03. 00 </span>
                       </div>
                     </li>
                     <li>
                       <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Sunday</strong>
-                        <span>(Close)</span>
+                        <strong className="me-3">Le dimanche</strong>
+                        <span>(Fermé)</span>
                       </div>
                     </li>
                   </ul>
@@ -126,7 +127,11 @@ const FooterV1 = () => {
                 <p>
                   Copyright &copy; {new Date().getFullYear()} DR. ABDURRAHMAN
                   ÖZTÜRK DENTAL CLINIC All Rights Reserved project
-                  <a href="https://www.badfi.tech/" target="_blank"> by BADFi.tech</a>                </p>
+                  <a href="https://www.badfi.tech/" target="_blank">
+                    {" "}
+                    by BADFi.tech
+                  </a>{" "}
+                </p>
               </div>
             </div>
           </div>
