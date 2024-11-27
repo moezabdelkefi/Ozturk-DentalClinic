@@ -10,8 +10,8 @@ const SingleServiceV2 = ({ service }) => {
                 <div className="icon">
                     <img src={`/img/icon/${thumb}`} alt="Image Not Found" />
                 </div>
+                <h3>{serviceName}</h3>
                 <p>{text}</p>
-                <h4><Link to={`/${serviceLink}/${id}#`}>{serviceName}</Link></h4>
                 {/* <span>{tag}</span> */}
                 {/* <Link to={`/${serviceLink}/${id}#`} className="icon-btn"><i className={icon}></i></Link> */}
                 {/* <div className="shape">

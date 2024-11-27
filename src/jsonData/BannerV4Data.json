@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "thumb": "banner1.jpeg",
+        "thumb": "banner1.webp",
         "subTitle": "Comprehensive Care",
-        "title": "Expert Dental Checkups and Cleanings",
+        "title": "Best Dental Clinic in Turkey",
         "text": "We ensure your smile stays healthy with personalized checkups and thorough cleanings. Trust our experienced team for the best dental care.",
         "btnText": "Book Appointment",
         "btnLink": "contact-us",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "thumb": "banner2.jpeg",
+        "thumb": "banner2.webp",
         "subTitle": "Advanced Treatments",
         "title": "Modern Solutions for Dental Health",
         "text": "Our clinic provides advanced dental treatments using the latest technology to ensure your dental health is in top shape.",

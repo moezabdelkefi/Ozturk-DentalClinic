@@ -10,9 +10,9 @@ const HeaderLogoV3 = ({ logoColor = false, openMenu }) => {
                 </button>
                 <Link className="navbar-brand" to="/#">
                     {logoColor ?
-                        <><img src="/img/logo/logo.png" className="logo" alt="Logo" /></>
+                        <><img src="/img/logo/logo.webp" className="logo" alt="Logo" /></>
                         :
-                        <><img src="/img/logo/logo.png" className="logo" alt="Logo" /></>
+                        <><img src="/img/logo/logo.webp" className="logo" alt="Logo" /></>
                     }
                 </Link>
             </div>

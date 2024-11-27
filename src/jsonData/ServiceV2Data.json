@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "thumb": "icon1.png",
-    "text": "mplants are very durable and will last many years. With good care, implants last a lifetime.",
-    "serviceName": "Dental Implant",
+    "thumb": "icon2.png",
+    "text": "All of our doctors are graduates from the world's top universities.",
+    "serviceName": "Certified",
     "tag": "Marketing",
     "serviceLink": "",
     "icon": "",
@@ -11,9 +11,9 @@
   },
   {
     "id": 2,
-    "thumb": "icon2.png",
-    "text": "More Comfortable: Removable aligners are more comfortable than traditional braces.",
-    "serviceName": "Immediate Implant",
+    "thumb": "icon1.png",
+    "text": "Our doctors are highly professional, and all of our patients praise their expertise.",
+    "serviceName": "Experience",
     "tag": "Media",
     "serviceLink": "",
     "icon": "",
@@ -22,8 +22,8 @@
   {
     "id": 3,
     "thumb": "icon3.png",
-    "text": "Restore the function of your teeth like chewing and speaking properly, if you are missing one or more teeth",
-    "serviceName": "Dental Crowns & Bridges",
+    "text": "Our doctors are highly professional, and all of our patients praise their expertise.",
+    "serviceName": "Professional",
     "tag": "Software",
     "serviceLink": "",
     "icon": "",
@@ -32,29 +32,9 @@
   {
     "id": 4,
     "thumb": "icon4.png",
-    "text": "Relieve your pain, save your teeth and keep you smiling and eating your favourite foods.",
-    "serviceName": "Root Canal Treatment",
+    "text": "Continuous support from the moment the patient enters our clinic until full recovery.",
+    "serviceName": "Support",
     "tag": "",
-    "serviceLink": "",
-    "icon": "",
-    "shape": ""
-  },
-  {
-    "id": 5,
-    "thumb": "icon5.png",
-    "text": "Get what is best for you by consulting who are best in the field",
-    "serviceName": "Veneers",
-    "tag": "",
-    "serviceLink": "",
-    "icon": "",
-    "shape": ""
-  },
-  {
-    "id": 6,
-    "thumb": "icon6.png",
-    "text": "Get you a brighter, more appealing smile.A whiter smile with laser whitening",
-    "serviceName": "Teeth Whitening",
-    "tag": "Agency",
     "serviceLink": "",
     "icon": "",
     "shape": ""

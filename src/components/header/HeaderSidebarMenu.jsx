@@ -20,7 +20,6 @@ const HeaderSidebarMenu = ({
       <div className="attr-right">
         <div className="attr-nav flex">
           <ul>
-         
             <li className="side-menu">
               <Link to={void 0} onClick={addClasses}>
                 <span className="bar-1"></span>
@@ -37,16 +36,16 @@ const HeaderSidebarMenu = ({
           </Link>
           <div className="widget">
             <div className="logo">
-              <img src="/img/logo/logo-white.png" alt="Logo" />
+              <img src="/img/logo/logo.webp" alt="Logo" />
             </div>
           </div>
           <div className="widget">
             <p>
-              At Taksim Medical Clinics, we offer you direct consultations from
-              a medical team specialized in the relevant health condition, in
-              addition to a variety of treatment packages that include all the
-              necessary services for the patient from the moment he arrives in
-              Turkey until his departure.
+              Our clinic is trusted by numerous medical centers that refer
+              patients to us from all over the world. We have successfully
+              performed many procedures and provided the best dental implant
+              treatments, ensuring outstanding results and high-quality medical
+              care for our patients.
             </p>
           </div>
           <div className="widget address">
@@ -55,18 +54,18 @@ const HeaderSidebarMenu = ({
                 <li>
                   <div className="content">
                     <p>Address</p>
-                    <strong>
-                      14/1 Mete Road Ayanoğlu business center - Gümüşsuyu .
-                      (Taksim Square) Beyoğlu - İstanbul
-                    </strong>
+                    <strong>Istanbul - Turkey</strong>
                   </div>
                 </li>
                 <li>
                   <div className="content">
                     <p>Email</p>
                     <strong>
-                      <a href="info@taksim-clinics.com" className="color-para">
-                        info@taksimclinics.com
+                      <a
+                        href="info@dr-abdurrahmanozturk.com"
+                        className="color-para"
+                      >
+                        info@dr-abdurrahmanozturk.com
                       </a>
                     </strong>
                   </div>
@@ -76,7 +75,7 @@ const HeaderSidebarMenu = ({
                     <p>Contact</p>
                     <strong>
                       <a href="tel:+90 501 355 0300" className="color-para">
-                        +90 501 355 0300
+                        +90 536 063 0089
                       </a>
                     </strong>
                   </div>

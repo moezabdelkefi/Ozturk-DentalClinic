@@ -10,7 +10,7 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
         }`}
         id="navbar-menu"
       >
-        <img src="/img/logo/logo.png" alt="Logo" />
+        <img src="/img/logo/logo.webp" alt="Logo" />
         <button type="button" className="navbar-toggle" onClick={closeMenu}>
           <i className="fa-solid fa-times"></i>
         </button>
@@ -25,10 +25,7 @@ const MainMenu = ({ isOpen, closeMenu, toggleSubMenu, toggleMegaMenu }) => {
             <Link to="#gallery" smooth>Gallery</Link>
           </li>
           <li>
-            <Link to="#cosmetics" smooth>Cosmetics</Link>
-          </li>
-          <li>
-            <Link to="#why-choose-taksim" smooth>Why Choose Taksim</Link>
+            <Link to="#why-choose-taksim" smooth>Why Choose Us</Link>
           </li>
           <li>
             <Link to="#contact-us" smooth>Contact Us</Link>

@@ -16,13 +16,14 @@ import { FloatingWhatsApp } from "react-floating-whatsapp";
 import HeaderV4 from "../../components/header/HeaderV4";
 import ProjectCarouselContent from "../../components/project/ProjectCarouselContent";
 import ProjectDeal from "../project/ProjectDeal";
-import logo from '../../../public/img/logo/logo.png';
+import logo from "../../../public/img/team/doctor.jpg";
+import ServiceFaqV1 from "../../components/faq/ServiceFaqV1";
 const Home1 = () => {
   return (
     <>
       <FloatingWhatsApp
-        phoneNumber="905439086696"
-        accountName="Taksim Medical Clinic"
+        phoneNumber="905360630089"
+        accountName="ÖZTÜRK DENTAL CLINIC"
         statusMessage="We are available to chat!"
         chatMessage="Hello! How can we assist you today?"
         avatar={logo}
@@ -42,8 +43,8 @@ const Home1 = () => {
       <AboutV2 />
       <ProjectV1 />
       <BannerV1 />
+
       <ServicesV2 />
-      <ProjectCarouselContent />
       <AboutV1 />
       <ProjectDeal />
       <ProcessV1 />

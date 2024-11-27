@@ -11,13 +11,13 @@ const HeaderLogoV2 = ({ logoColor = false, openMenu }) => {
                 <Link className="navbar-brand" to="/#">
                     {logoColor ?
                         <>
-                            <img src="/img/logo/logo.png" className="logo logo-display" alt="Logo" />
-                            <img src="/img/logo/logo.png" className="logo logo-scrolled" alt="Logo" />
+                            <img src="/img/logo/logo.webp" className="logo logo-display" alt="Logo" />
+                            <img src="/img/logo/logo.webp" className="logo logo-scrolled" alt="Logo" />
                         </>
                         :
                         <>
-                            <img src="/img/logo/logo.png" className="logo logo-display" alt="Logo" />
-                            <img src="/img/logo/logo.png" className="logo logo-scrolled" alt="Logo" />
+                            <img src="/img/logo/logo.webp" className="logo logo-display" alt="Logo" />
+                            <img src="/img/logo/logo.webp" className="logo logo-scrolled" alt="Logo" />
                         </>
                     }
                 </Link>

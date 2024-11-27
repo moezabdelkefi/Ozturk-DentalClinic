@@ -25,7 +25,10 @@ const ProjectV1 = () => {
 
   return (
     <>
-      <div id="services" className="project-style-one-area overflow-hidden default-padding-top bg-gray">
+      <div
+        id="services"
+        className="project-style-one-area overflow-hidden default-padding-top bg-gray"
+      >
         <div className="container">
           <div className="heading-left">
             <div className="row">
@@ -33,7 +36,12 @@ const ProjectV1 = () => {
                 <div className="content-left">
                   <h5 className="sub-title">What we offer</h5>
                   <h2 className="heading">
-                  We offer more than medical consultations, providing additional services throughout your trip, including:
+                    Our clinic in Turkey offers a full range of dental
+                    treatments, including dental implants, and is equipped with
+                    advanced, state-of-the-art technology. Our team consists of
+                    some of the best dentists in Turkey, utilizing the latest
+                    medical techniques to ensure the highest quality of care and
+                    treatment.{" "}
                   </h2>
                 </div>
               </div>

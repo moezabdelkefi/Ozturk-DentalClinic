@@ -24,12 +24,12 @@ const FooterV1 = () => {
                   <img src="/img/shape/6.png" alt="Image Not Found" />
                 </div>
                 <div className="f-item about pr-50 pr-xs-0 pr-md-0">
-                  <img className="logo" src="/img/logo/logo-white.png" alt="Logo" />
+                  <img className="logo" src="/img/logo/logo.webp" alt="Logo" />
                   <p>
-                    At Taksim Medical Clinics, we provide specialized
-                    consultations and comprehensive treatment packages, ensuring
-                    all necessary services for patients from their arrival in
-                    Turkey until departure.
+                    We offer a comprehensive range of dental services that meet
+                    the needs of every member of your family, from preventive
+                    care to advanced treatments. Our goal is to ensure the oral
+                    health and confident smiles of your family.
                   </p>
                   <div className="footer-social mt-30">
                     <ul>
@@ -43,7 +43,6 @@ const FooterV1 = () => {
                 <div className="f-item link">
                   <h4 className="widget-title">Our Departments</h4>
                   <ul>
-                  
                     <li>
                       <Link to="#about-us">About</Link>
                     </li>
@@ -53,11 +52,9 @@ const FooterV1 = () => {
                     <li>
                       <Link to="#gallery">Gallery</Link>
                     </li>
+
                     <li>
-                      <Link to="#cosmetics">Cosmetics</Link>
-                    </li>
-                    <li>
-                      <Link to="#why-choose-taksim">Why Choose Taksim</Link>
+                      <Link to="#why-choose-taksim">Why Choose Us</Link>
                     </li>
                     <li>
                       <Link to="#contact-us">Contact Us</Link>
@@ -73,22 +70,21 @@ const FooterV1 = () => {
                     <li>
                       <div className="content">
                         <strong>Address:</strong>
-                        14/1 Mete Road Ayanoğlu business center - Gümüşsuyu .
-                        (Taksim Square) Beyoğlu - İstanbul
+                        Istanbul - Turkey
                       </div>
                     </li>
                     <li>
                       <div className="content">
                         <strong>Email:</strong>
-                        <a href="mailto:info@taksimclinics.com">
-                          info@taksimclinics.com
+                        <a href="mailto:info@dr-abdurrahmanozturk.com">
+                          info@dr-abdurrahmanozturk.com
                         </a>
                       </div>
                     </li>
                     <li>
                       <div className="content">
                         <strong>Phone:</strong>
-                        <a href="tel:2151234567">+905439086696</a>
+                        <a href="tel:2151234567">+90 536 063 0089</a>
                       </div>
                     </li>
                   </ul>
@@ -100,39 +96,20 @@ const FooterV1 = () => {
                   <ul>
                     <li>
                       <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Monday :</strong>
-                        <span>10.00 - 08.00</span>
+                        <strong className="me-3">Monday - Friday </strong>
+                        <span>08.00 AM - 07.00 PM</span>
                       </div>
                     </li>
                     <li>
                       <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Tuesday :</strong>
-                        <span>10.00 - 08.00</span>
+                        <strong className="me-3">Saturday</strong>
+                        <span>08.00 AM - 03. 00 PM</span>
                       </div>
                     </li>
                     <li>
                       <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Wednesday:</strong>
-                        <span>10.00 - 08.00</span>
-                      </div>
-                    </li>
-                    <li>
-                      <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Thursday :</strong>
-                        <span>10.00 - 08.00</span>
-                      </div>
-                    </li>
-
-                    <li>
-                      <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Friday:</strong>
-                        <span>10.00 - 08.00</span>
-                      </div>
-                    </li>
-                    <li>
-                      <div className="d-flex justify-content-between align-items-center">
-                        <strong className="me-3">Saturday :</strong>
-                        <span>10.00 - 08.00</span>
+                        <strong className="me-3">Sunday</strong>
+                        <span>(Close)</span>
                       </div>
                     </li>
                   </ul>
@@ -147,9 +124,9 @@ const FooterV1 = () => {
             <div className="row">
               <div className="col-lg-12">
                 <p>
-                  Copyright &copy; {new Date().getFullYear()} Taksim Medical Clinics All
-                  Rights Reserved
-                </p>
+                  Copyright &copy; {new Date().getFullYear()} DR. ABDURRAHMAN
+                  ÖZTÜRK DENTAL CLINIC All Rights Reserved project
+                  <a href="https://www.badfi.tech/" target="_blank"> by BADFi.tech</a>                </p>
               </div>
             </div>
           </div>

@@ -177,8 +177,11 @@ const HeaderV4 = ({ logoColor = false }) => {
       <header>
         <nav
           className={`navbar mobile-sidenav navbar-default validnavs dark ${
-            isSticky ? "sticked" : "no-background"
+            isSticky ? "sticked" : ""
           }`}
+          style={{
+            background: "linear-gradient(313deg, #B22234, #17224D)",
+          }}
         >
           <div className="container d-flex justify-content-between align-items-center">
             <HeaderLogoV3 logoColor={logoColor} openMenu={openMenu} />

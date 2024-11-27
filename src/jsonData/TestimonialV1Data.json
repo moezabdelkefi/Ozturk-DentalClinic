@@ -1,20 +1,38 @@
 [
-    {
-        "id": 1,
-        "text": "I went there from Canada. I did all my teeth they did really great job also there Dr's and all staff working there are amazing.",
-        "name": "Nina mansor",
-        "designation": ""
-    },
-    {
-        "id": 2,
-        "text": "I would like to thank the staff of the Taksim Clinics clinic for their warm welcome, and particularly the medical advisor M. ABDELLAH for",
-        "name": "Mohamed kayouech",
-        "designation": ""
-    },
-    {
-        "id": 3,
-        "text": "I would like to say what an amazing clinic and doctor, also all the staff are so friendly, supportive and helpful.",
-        "name": "Rebecca reynoolds",
-        "designation": ""
-    }
+  {
+    "id": 1,
+    "text": "I traveled from the United States to Istanbul for dental implants. The service at Dr. Abdurrahman Öztürk Dental Clinic was top-notch, and the staff made me feel at home.",
+    "name": "John Doe",
+    "designation": "Business Consultant"
+  },
+  {
+    "id": 2,
+    "text": "I was amazed by the professionalism and care I received. The clinic's modern facilities and skilled doctors exceeded my expectations. Highly recommended!",
+    "name": "Jane Smith",
+    "designation": "Marketing Specialist"
+  },
+  {
+    "id": 3,
+    "text": "My Hollywood smile transformation was beyond my dreams! Dr. Abdurrahman and his team provided exceptional care from start to finish.",
+    "name": "Alice Brown",
+    "designation": "Photographer"
+  },
+  {
+    "id": 4,
+    "text": "I came from Canada for cosmetic dentistry. The clinic's attention to detail and advanced techniques are unmatched. A big thank you to the entire team!",
+    "name": "Michael Johnson",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 5,
+    "text": "The clinic's warm welcome, clean environment, and exceptional results make it the best choice for dental care in Turkey. I couldn’t be happier!",
+    "name": "Sophia Williams",
+    "designation": "Teacher"
+  },
+  {
+    "id": 6,
+    "text": "I was nervous about getting dental surgery, but the team reassured me and made the process smooth and pain-free. Fantastic experience!",
+    "name": "Chris Evans",
+    "designation": "Entrepreneur"
+  }
 ]

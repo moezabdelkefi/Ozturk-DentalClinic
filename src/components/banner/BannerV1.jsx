@@ -6,7 +6,7 @@ const BannerV1 = () => {
   return (
     <>
       <div
-      id="gallery"
+        id="gallery"
         className="banner-style-one-area"
         style={{ backgroundImage: "url(img/shape/1.png)" }}
       >
@@ -26,20 +26,25 @@ const BannerV1 = () => {
                     </ReactWOW>
                     <ReactWOW delay="900ms" duration="400ms">
                       <p className="fadeInUp">
-                        At Taksim Medical Clinic, we pride ourselves on
-                        delivering exceptional outcomes. Our patients
-                        consistently achieve their desired results through
-                        personalized care and advanced treatment methods.
+                        At Dr. Abdurrahman Ozturk’s clinic, we pride ourselves
+                        on delivering exceptional results in dental implants,
+                        cosmetic dentistry, and full-mouth rehabilitation.
+                        Below, you will find a collection of before and after
+                        photos showcasing the incredible transformations our
+                        patients have achieved through various dental
+                        procedures.
                       </p>
                     </ReactWOW>
                     <ReactWOW delay="1200ms" duration="400ms">
                       <div className="button mt-40 fadeInUp">
                         <Link
                           className="btn btn-md btn-gradient animation"
-                          to="/contact-us#"
+                          to="https://www.instagram.com/dr.abdurrahmanozturk.tr"
+                          target="_blank"
+                          rel="noopener noreferrer"
                         >
                           view instagram
-                        </Link>
+                        </Link> 
                       </div>
                     </ReactWOW>
                   </div>
@@ -49,14 +54,14 @@ const BannerV1 = () => {
                     <ReactWOW>
                       <img
                         className="fadeInUp"
-                        src="img/thumb/gallery.jpg"
+                        src="img/thumb/gallery.webp"
                         alt="Banner Image"
                       />
                     </ReactWOW>
                     <ReactWOW delay="500ms">
                       <img
                         className="fadeInDown"
-                        src="img/thumb/gallery2.jpg"
+                        src="img/thumb/gallery2.webp"
                         alt="Banner Image"
                       />
                     </ReactWOW>

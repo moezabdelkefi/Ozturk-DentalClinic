@@ -178,8 +178,8 @@ Version: 1.0
 
 .navbar-brand > img {
   display: block;
-  height: 75px;
-  width: 100px;
+  height: auto;
+  width: 100%;
 }
 
 .navbar-toggle {
@@ -481,7 +481,7 @@ nav.navbar.validnavs .navbar-toggle::after {
 
 nav.navbar.validnavs .navbar-toggle i {
   font-weight: 300;
-  color: var(--color-heading);
+  color: #ffffff;
 }
 
 nav.navbar.validnavs ul.nav .dropdown-menu .dropdown-menu {
@@ -583,9 +583,11 @@ nav.validnavs.navbar-full .navbar-collapse ul.nav {
 .validnavs .side .widget.social li.dribbble a {
   background: #ea4c89 none repeat scroll 0 0;
 }
-
+@media (max-width: 767px), (max-width: 768px), (max-width: 1024px) {
+  #navbar-menu { -webkit-animation-duration: 0.35s; animation-duration: 0.35s; background-color: #17224D; }
+}
 .validnavs a {
-  color: #232323;
+  color: #666666;
   font-weight: 700;
   text-transform: capitalize;
   background: transparent;
@@ -947,7 +949,7 @@ body {
   content: "";
   height: 100%;
   width: 200%;
-  background: var(--bg-gradient);
+  background: #17224D;
   z-index: -1;
 }
 
@@ -1151,7 +1153,7 @@ body {
   content: "";
   height: 2px;
   width: 25px;
-  background: #232323;
+  background: #ffffff;
   transition: all 0.35s ease-in-out;
 }
 
@@ -2252,6 +2254,7 @@ nav.navbar.validnavs.brand-center {
   nav.navbar.validnavs .navbar-nav > li {
     float: none;
     display: block;
+    
   }
 
   nav.navbar.validnavs li.dropdown a.dropdown-toggle:before {
@@ -2274,6 +2277,7 @@ nav.navbar.validnavs.brand-center {
     padding: 13px 0 !important;
     border-top: solid 1px #e0e0e0;
     margin-bottom: -1px;
+    color: #ffffff;
   }
 
   nav.navbar.validnavs .navbar-nav > li:first-child > a {
@@ -2690,6 +2694,7 @@ nav.navbar.validnavs.brand-center {
     font-weight: 700;
     font-size: 16px;
     text-transform: capitalize;
+    color: #ffffff;
   }
 
   nav.navbar.attr-border-full ul.nav > li > a,
@@ -2810,7 +2815,6 @@ nav.validnavs.navbar-full .navbar-toggle:hover span {
     animation: fadeIn;
     transition: 0.5s;
     top: 100%;
-    border-top: 1px solid #e7e7e7;
   }
 }
 
@@ -2872,7 +2876,9 @@ nav.validnavs.navbar-full .navbar-toggle:hover span {
   animation: none;
   transition: 0.7s;
 }
-
+.navbar.sticked {
+  background: linear-gradient(313deg, #f2295b, #17224D) !important;
+}
 .smooth-search.sticked {
   animation: none;
   transition: 0.7s;
@@ -2951,7 +2957,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button {
   width: 35px;
   line-height: 32px;
   text-align: center;
-  border: 2px solid #dddddd;
+  border: 2px solid #ffffff;
   border-radius: 50%;
   color: var(--dark);
   font-size: 16px;
@@ -2963,6 +2969,7 @@ nav.navbar.validnavs .navbar-collapse.collapse button i {
   font-weight: 400;
   font-size: 15px;
   margin: 0;
+  color: #B22234;
 }
 
 .navbar .attr-right.flex .attr-nav {

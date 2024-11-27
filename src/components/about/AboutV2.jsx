@@ -8,27 +8,48 @@ const AboutV2 = () => {
           <div className="row">
             <div className="col-lg-6 about-style-two">
               <div className="about-two-thumb">
-                <img src="/img/thumb/about.jpeg" alt="Image Not Found" />
+                <img src="/img/thumb/about.webp" alt="Image Not Found" />
                 <div className="experience">
                   <h2>
-                    <strong>18</strong> Years Experience
+                    Over
+                    <strong>15</strong> Years Experience
                   </h2>
                 </div>
               </div>
             </div>
-            <div className="col-lg-6 about-style-two pl-50 pl-md-15 pl-xs-15 mt-60 mt-xs-40">
+            <div className="col-lg-6 about-style-two pl-50 pl-md-15 pl-xs-15 mt-xs-40">
               <div className="about-two-info">
                 <h4 className="sub-title">About Us</h4>
+                <h2 className="title">A leading visionary in dental care.</h2>
+                <p>
+                  Committed to providing the latest dental solutions to ensure a
+                  healthy and lasting smile for every patient.
+                </p>
+                <p>
+                  Our clinic is licensed by all medical authorities of the
+                  Turkish government, and all our doctors have graduated from
+                  the world’s top universities.
+                </p>
                 <h2 className="title">
-                  Why Choose Taksim <br /> Clinics for Treatment?
+                  Our clinic is licensed by the Turkish Ministry of Health.
                 </h2>
                 <p>
-                  At Taksim Medical Clinics, we offer you direct consultations
-                  from a medical team specialized in the relevant health
-                  condition, in addition to a variety of treatment packages that
-                  include all the necessary services for the patient from the
-                  moment he arrives in Turkey until his departure.
+                  Our clinic is licensed by all medical authorities of the
+                  Turkish government, and all our doctors have graduated from
+                  the world’s top universities.
                 </p>
+                <p>
+                  What sets us apart from others? We are doctors, not a
+                  marketing agency. From the moment you contact us, coordination
+                  will be directly handled by your doctor who will be treating
+                  you.
+                </p>
+                <div className="image-container">
+                  <img src="/img/minlogo/minlogo.webp" alt="Image 1" />
+                  <img src="/img/minlogo/minlogo2.webp" alt="Image 2" />
+                  <img src="/img/minlogo/minlogo3.webp" alt="Image 3" />
+                  <img src="/img/minlogo/minlogo4.webp" alt="Image 4" />
+                </div>
               </div>
             </div>
           </div>

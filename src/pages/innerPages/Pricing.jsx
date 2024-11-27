@@ -1,7 +1,6 @@
 import React from 'react';
 import HeaderV2 from '../../components/header/HeaderV2';
 import BreadCrumb from '../../components/breadCrumb/BreadCrumb';
-import PriceV2 from '../../components/price/PriceV2';
 import ProjectDeal from '../project/ProjectDeal';
 import FooterV1 from '../../components/footer/FooterV1';
 

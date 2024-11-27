@@ -6,9 +6,7 @@ const ContactV1 = ({ contactClass }) => {
     return (
         <>
             <div id="contact-us" className={`contact-area overflow-hidden default-padding ${contactClass}`} style={{ backgroundImage: "url(/img/shape/map.png)" }}>
-                <div className="shape-right-bottom">
-                    <img src="/img/shape/18.png" alt="Shape" />
-                </div>
+             
                 <div className="container">
                     <div className="row align-center">
                         <div className="col-tact-stye-one col-lg-5">

@@ -1,50 +1,58 @@
 [
-    {
-        "id": 1,
-        "thumb": "service1.jpg",
-        "thumbFull": "1-full.jpg",
-        "projectLink": "",
-        "subTitle": "Veener",
-        "shape": "10.png"
-    },
-    {
-        "id": 2,
-        "thumb": "service2.jpg",
-        "thumbFull": "2-full.jpg",
-        "projectLink": "",
-        "subTitle": "hollywood smile",
-        "shape": "10.png"
-    },
-    {
-        "id": 3,
-        "thumb": "service3.jpg",
-        "thumbFull": "3-full.jpg",
-        "projectLink": "",
-        "subTitle": "Crowns & Bridges",
-        "shape": "10.png"
-    },
-    {
-        "id": 4,
-        "thumb": "service4.jpg",
-        "thumbFull": "5-full.jpg",
-        "projectLink": "",
-        "subTitle": "Teeth Whitening",
-        "shape": "10.png"
-    },
-    {
-        "id": 5,
-        "thumb": "service5.jpg",
-        "thumbFull": "5-full.jpg",
-        "projectLink": "",
-        "subTitle": "Dental Implant",
-        "shape": "10.png"
-    },
-    {
-        "id": 6,
-        "thumb": "service6.jpg",
-        "thumbFull": "6-full.jpg",
-        "projectLink": "",
-        "subTitle": "Root Canal Treatment",
-        "shape": "10.png"
-    }
+  {
+    "id": 1,
+    "thumb": "service1.webp",
+    "thumbFull": "1-full.jpg",
+    "projectLink": "",
+    "subTitle": "Oral and Maxillofacial Surgery",
+    "shape": "10.png"
+  },
+  {
+    "id": 2,
+    "thumb": "service2.webp",
+    "thumbFull": "2-full.jpg",
+    "projectLink": "",
+    "subTitle": "Prosthodontics",
+    "shape": "10.png"
+  },
+  {
+    "id": 3,
+    "thumb": "service3.webp",
+    "thumbFull": "3-full.jpg",
+    "projectLink": "",
+    "subTitle": "Endodontics",
+    "shape": "10.png"
+  },
+  {
+    "id": 4,
+    "thumb": "service4.webp",
+    "thumbFull": "5-full.jpg",
+    "projectLink": "",
+    "subTitle": "Periodontics",
+    "shape": "10.png"
+  },
+  {
+    "id": 5,
+    "thumb": "service5.webp",
+    "thumbFull": "5-full.jpg",
+    "projectLink": "",
+    "subTitle": "Digital Dentistry",
+    "shape": "10.png"
+  },
+  {
+    "id": 6,
+    "thumb": "service6.webp",
+    "thumbFull": "6-full.jpg",
+    "projectLink": "",
+    "subTitle": "Cosmetic Dentistry",
+    "shape": "10.png"
+  },
+  {
+    "id": 7,
+    "thumb": "service7.webp",
+    "thumbFull": "6-full.jpg",
+    "projectLink": "",
+    "subTitle": "Dental Implants",
+    "shape": "10.png"
+  }
 ]
