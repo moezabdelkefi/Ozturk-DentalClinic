@@ -1,6 +1,5 @@
 import React from "react";
 import BannerV1 from "../../components/banner/BannerV1";
-import ServicesV1 from "../../components/services/ServicesV1";
 import AboutV1 from "../../components/about/AboutV1";
 import ProcessV1 from "../../components/process/ProcessV1";
 import ProjectV1 from "../../components/project/ProjectV1";
@@ -11,13 +10,11 @@ import BannerV4 from "../../components/banner/BannerV4";
 import ServicesV2 from "../../components/services/ServicesV2";
 import ContactV1 from "../../components/contact/ContactV1";
 import AboutV2 from "../../components/about/AboutV2";
-import HeaderV2 from "../../components/header/HeaderV2";
 import { FloatingWhatsApp } from "react-floating-whatsapp";
 import HeaderV4 from "../../components/header/HeaderV4";
-import ProjectCarouselContent from "../../components/project/ProjectCarouselContent";
 import ProjectDeal from "../project/ProjectDeal";
 import logo from "../../../public/img/team/doctor.jpg";
-import ServiceFaqV1 from "../../components/faq/ServiceFaqV1";
+import Project2Column from "../project/Project2Column";
 const Home1 = () => {
   return (
     <>
@@ -43,8 +40,8 @@ const Home1 = () => {
       <AboutV2 />
       <ProjectV1 />
       <BannerV1 />
-
       <ServicesV2 />
+      <Project2Column />
       <AboutV1 />
       <ProjectDeal />
       <ProcessV1 />

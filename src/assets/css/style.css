@@ -2828,7 +2828,7 @@ button i {
 
 .breadcrumb-area {
 	overflow: hidden;
-	padding-top: 200px;
+	padding-top: 120px;
 }
 
 .breadcumb-items {
@@ -4871,7 +4871,7 @@ ul.check-list-item li::after {
 	position: absolute;
 	right: -5px;
 	bottom: 0;
-	content: ",";
+	content: "";
 	font-weight: 800;
 }
 
@@ -4945,7 +4945,7 @@ ul.check-list-item li::after {
 	content: "";
 	height: 100%;
 	width: 100%;
-	background: url(/img/shape/banner-3.webp);
+	background: url(/img/shape/banner-3.png);
 	z-index: -1;
 	transition: all 0.35s ease-in-out;
 	opacity: 0;
@@ -8505,7 +8505,7 @@ footer .footer-bottom p {
 	}
 
 	.breadcrumb-area h1 {
-		font-size: 36px;
+		font-size: 30px;
 	}
 
 	.breadcrumb-area {

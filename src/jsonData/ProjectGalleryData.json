@@ -1,61 +1,41 @@
 [
     {
         "id": 1,
-        "thumb": "7.jpg",
-        "title": "Effective Solutions",
+        "thumb": "implant1.png",
+        "title": "implant dentaire",
         "titleLink": "project-details",
-        "list1": "Digital",
-        "list2": "Business",
+        "list1": "",
+        "list2": "",
         "btnLink": "project-details",
         "btnIcon": "fa-solid fa-long-arrow-right"
     },
     {
         "id": 2,
-        "thumb": "8.jpg",
-        "title": "Marketing Management",
+        "thumb": "implant2.png",
+        "title": "Implants All-on-6",
         "titleLink": "project-details",
-        "list1": "Advertising",
-        "list2": "Grow",
+        "list1": "",
+        "list2": "",
         "btnLink": "project-details",
         "btnIcon": "fa-solid fa-long-arrow-right"
     },
     {
         "id": 3,
-        "thumb": "9.jpg",
-        "title": "Effective Solutions",
+        "thumb": "implant3.png",
+        "title": "Implants All-on-4",
         "titleLink": "project-details",
-        "list1": "Agency",
-        "list2": "Company",
+        "list1": "",
+        "list2": "",
         "btnLink": "project-details",
         "btnIcon": "fa-solid fa-long-arrow-right"
     },
     {
         "id": 4,
-        "thumb": "10.jpg",
-        "title": "Effective Solutions",
+        "thumb": "implant4.png",
+        "title": "Sourire hollywoodien",
         "titleLink": "project-details",
-        "list1": "Digital",
-        "list2": "Business",
-        "btnLink": "project-details",
-        "btnIcon": "fa-solid fa-long-arrow-right"
-    },
-    {
-        "id": 5,
-        "thumb": "11.jpg",
-        "title": "Marketing Management",
-        "titleLink": "project-details",
-        "list1": "Advertising",
-        "list2": "Grow",
-        "btnLink": "project-details",
-        "btnIcon": "fa-solid fa-long-arrow-right"
-    },
-    {
-        "id": 6,
-        "thumb": "12.jpg",
-        "title": "Effective Solutions",
-        "titleLink": "project-details",
-        "list1": "Agency",
-        "list2": "Company",
+        "list1": "",
+        "list2": "",
         "btnLink": "project-details",
         "btnIcon": "fa-solid fa-long-arrow-right"
     }
