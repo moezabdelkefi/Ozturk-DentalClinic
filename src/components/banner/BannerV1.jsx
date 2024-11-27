@@ -26,14 +26,11 @@ const BannerV1 = () => {
                     </ReactWOW>
                     <ReactWOW delay="900ms" duration="400ms">
                       <p className="fadeInUp">
-                        À la clinique du Dr Abdurrahman Ozturk, nous sommes
-                        fiers d’offrir des résultats exceptionnels en matière
-                        d’implants dentaires, de dentisterie esthétique et de
-                        réhabilitation de la bouche entière. Vous trouverez
-                        ci-dessous une collection de photos avant et après
-                        illustrant les transformations incroyables que nos
-                        patients ont obtenues grâce à diverses procédures
-                        dentaires.
+                        À la clinique du Dr Abdurrahman Ozturk, nous
+                        transformons les sourires grâce à des implants, des
+                        soins esthétiques et des réhabilitations complètes.
+                        Découvrez nos photos avant/après et les incroyables
+                        résultats obtenus par nos patients.
                       </p>
                     </ReactWOW>
                     <ReactWOW delay="1200ms" duration="400ms">

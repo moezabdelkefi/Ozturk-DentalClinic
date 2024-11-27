@@ -15,6 +15,8 @@ import HeaderV4 from "../../components/header/HeaderV4";
 import ProjectDeal from "../project/ProjectDeal";
 import logo from "../../../public/img/team/doctor.jpg";
 import Project2Column from "../project/Project2Column";
+import ProjectCarouselContent from "../../components/project/ProjectCarouselContent";
+
 const Home1 = () => {
   return (
     <>
@@ -40,7 +42,8 @@ const Home1 = () => {
       <AboutV2 />
       <ProjectV1 />
       <BannerV1 />
-      <ServicesV2 />
+      <ProjectCarouselContent />
+      {/* <ServicesV2 /> */}
       <Project2Column />
       <AboutV1 />
       <ProjectDeal />

@@ -84,26 +84,7 @@ const HeaderSidebarMenu = ({
               </ul>
             </div>
           </div>
-          <div className="widget newsletter">
-            <h4 className="title">CONTACTEZ-NOUS</h4>
-            <form onSubmit={handleEmail}>
-              <div className="input-group stylish-input-group">
-                <input
-                  type="email"
-                  placeholder="Entrez votre e-mail"
-                  className="form-control"
-                  name="email"
-                  autoComplete="off"
-                  required
-                />
-                <span className="input-group-addon">
-                  <button type="submit">
-                    <i className="arrow_right"></i>
-                  </button>
-                </span>
-              </div>
-            </form>
-          </div>
+
           <div className="widget social">
             <ul className="link">
               <SocialShare2 />

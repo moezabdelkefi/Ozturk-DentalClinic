@@ -10,7 +10,7 @@ const SingleBannerV4 = ({ banner }) => {
                 <div className="banner-thumb bg-cover shadow dark" style={{ background: `url(/img/banner/${thumb})` }}></div>
                 <div className="container">
                     <div className="row align-center">
-                        <div className="col-xl-6 col-lg-7 col-md-10">
+                        <div className="col-xl-8 col-lg-7 col-md-10">
                             <div className="content">
                                 <h4>{subTitle}</h4>
                                 <h2>{title}</h2>

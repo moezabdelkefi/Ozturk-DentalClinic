@@ -1,4 +1,5 @@
 import React from "react";
+import { HashLink as Link } from "react-router-hash-link";
 
 const AboutV2 = () => {
   return (
@@ -20,10 +21,7 @@ const AboutV2 = () => {
             <div className="col-lg-6 about-style-two pl-50 pl-md-15 pl-xs-15 mt-xs-40">
               <div className="about-two-info">
                 <h4 className="sub-title">À propos de nous</h4>
-                <h2 className="title">
-                  Un visionnaire de premier plan dans le domaine des soins
-                  dentaires.
-                </h2>
+
                 <p>
                   Nous nous engageons à fournir les dernières solutions
                   dentaires pour assurer un sourire sain et durable à chaque
@@ -53,6 +51,14 @@ const AboutV2 = () => {
                   <img src="/img/minlogo/minlogo2.webp" alt="Image 2" />
                   <img src="/img/minlogo/minlogo3.webp" alt="Image 3" />
                   <img src="/img/minlogo/minlogo4.webp" alt="Image 4" />
+                </div>
+                <div className="button">
+                  <Link
+                    className="btn btn-md btn-gradient animation mt-35"
+                    to="#contact-us"
+                  >
+                    Consultez Nos Services
+                  </Link>
                 </div>
               </div>
             </div>

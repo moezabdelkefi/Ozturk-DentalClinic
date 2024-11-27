@@ -4,7 +4,7 @@
         "thumb": "banner1.webp",
         "subTitle": "Soins complets",
         "title": "Meilleure clinique dentaire en Turquie",
-        "text": "Nous veillons à ce que votre sourire reste en bonne santé grâce à des examens personnalisés et des nettoyages approfondis. Faites confiance à notre équipe expérimentée pour les meilleurs soins dentaires.",
+        "text": "",
         "btnText": "Prendre rendez-vous",
         "btnLink": "contact-us",
         "shape": "dental-shape.png"
@@ -14,9 +14,9 @@
         "thumb": "banner2.webp",
         "subTitle": "Traitements avancés",
         "title": "Des solutions modernes pour la santé dentaire",
-        "text": "Notre clinique propose des traitements dentaires avancés utilisant les dernières technologies pour garantir que votre santé dentaire soit optimale.",
+        "text": "",
         "btnText": "Apprendre encore plus",
-        "btnLink": "about-us",
+        "btnLink": "contact-us",
         "shape": "dental-shape.png"
     }
 ]

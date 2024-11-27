@@ -4,6 +4,7 @@ import SingleProjectV3 from "./SingleProjectV3";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Keyboard } from "swiper/modules";
 import { useRef } from "react";
+import { HashLink as Link } from "react-router-hash-link";
 
 const ProjectV1 = () => {
   const SlideRef = useRef();
@@ -25,19 +26,23 @@ const ProjectV1 = () => {
 
   return (
     <>
-      <div id="cosmetics" className="project-style-one-area overflow-hidden default-padding-top">
+      <div
+        id="cosmetics"
+        className="project-style-one-area overflow-hidden default-padding-top bg-gray"
+      >
         <div className="container">
           <div className="heading-left">
             <div className="row">
               <div className="col-xl-8 col-lg-6">
                 <div className="content-left">
-                <h5 className="sub-title">
-                    We offer you a group of the greatest cosmetic dentistry
-                    services in Turkey,{" "}
-                  </h5>
-                  <h2 className="heading">
-                    And as one of the best techniques and doctors.
-                  </h2>
+                  <div className="button">
+                    <Link
+                      className="btn btn-theme btn-md animation"
+                      to="#contact-us"
+                    >
+                      Votre Santé Dentaire Nous Appelle
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>

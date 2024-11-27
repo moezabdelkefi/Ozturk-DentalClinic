@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "image1.jpg",
+        "thumb": "gal1.jpg",
         "thumbFull": "1-full.jpg",
         "projectLink": "project-details",
         "subTitle": "Marketing",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "thumb": "image2.jpeg",
+        "thumb": "gal2.jpg",
         "thumbFull": "2-full.jpg",
         "projectLink": "project-details",
         "subTitle": "Digital",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "thumb": "image3.jpeg",
+        "thumb": "gal3.jpg",
         "thumbFull": "3-full.jpg",
         "projectLink": "project-details",
         "subTitle": "Promotion",
@@ -28,38 +28,11 @@
     },
     {
         "id": 4,
-        "thumb": "image4.jpeg",
+        "thumb": "gal4.jpg",
         "thumbFull": "5-full.jpg",
         "projectLink": "project-details",
         "subTitle": "Research",
         "title": "Content Optimization",
-        "shape": "10.png"
-    },
-    {
-        "id": 5,
-        "thumb": "image6.jpeg",
-        "thumbFull": "5-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Research",
-        "title": "Content Optimization",
-        "shape": "10.png"
-    },
-    {
-        "id": 6,
-        "thumb": "image7.jpeg",
-        "thumbFull": "6-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Digital",
-        "title": "Development Agency",
-        "shape": "10.png"
-    },
-    {
-        "id": 7,
-        "thumb": "image8.jpg",
-        "thumbFull": "6-full.jpg",
-        "projectLink": "project-details",
-        "subTitle": "Digital",
-        "title": "Development Agency",
         "shape": "10.png"
     }
 ]

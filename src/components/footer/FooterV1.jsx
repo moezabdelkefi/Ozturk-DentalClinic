@@ -26,11 +26,9 @@ const FooterV1 = () => {
                 <div className="f-item about pr-50 pr-xs-0 pr-md-0">
                   <img className="logo" src="/img/logo/logo.webp" alt="Logo" />
                   <p>
-                    Nous offrons une gamme complète de services dentaires qui
-                    répondent aux besoins de chaque membre de votre famille, des
-                    soins préventifs aux traitements avancés. Notre objectif est
-                    d'assurer la santé buccodentaire et les sourires confiants
-                    de votre famille.
+                    Nous offrons des soins dentaires complets pour toute la
+                    famille, des préventions aux traitements avancés, pour des
+                    sourires sains et confiants.
                   </p>
                   <div className="footer-social mt-30">
                     <ul>

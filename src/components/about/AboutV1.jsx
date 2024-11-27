@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Modal from "react-modal";
-import { Link } from "react-router-dom";
+import { HashLink as Link } from "react-router-hash-link";
 
 const AboutV1 = () => {
   const [isOpen, setOpen] = useState(false);
@@ -35,30 +35,37 @@ const AboutV1 = () => {
                   <li>
                     <h5>Vision</h5>
                     <p>
-                      Être une clinique dentaire de premier plan, offrant des
-                      soins de qualité supérieure et des traitements innovants,
-                      garantissant les meilleurs résultats possibles pour nos
-                      patients tout en favorisant la santé bucco-dentaire et le
-                      bien-être tout au long de la vie.
+                      Devenir une clinique dentaire de référence, offrant des
+                      soins innovants et de qualité pour assurer le bien-être
+                      bucco-dentaire durable de nos patients.
                     </p>
                   </li>
                   <li>
                     <h5>Mission</h5>
                     <p>
-                      Offrir des soins dentaires d'excellence, centrés sur le
-                      patient, avec des technologies de pointe. Nous visons à
-                      améliorer la santé bucco-dentaire et le bien-être grâce à
-                      des traitements personnalisés, une approche bienveillante
-                      et une quête constante d'amélioration.
+                      Fournir des soins dentaires d'excellence avec des
+                      technologies avancées, une approche bienveillante, et des
+                      traitements personnalisés pour améliorer la santé et le
+                      bien-être de nos patients.
                     </p>
                   </li>
                 </ul>
+                <div className="d-flex justify-content-center">
+                  <div className="button">
+                    <Link
+                      className="btn btn-md btn-gradient animation mt-35"
+                      to="#contact-us"
+                    >
+                      Sourire Parfait? Commencez Ici
+                    </Link>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="col-xl-8 col-lg-12">
               <div className="about-style-one">
                 <h2 className="title pl-120 pl-md-0 pl-xs-0 mb-70 mb-md-40 mb-xs-30 mt-md-50 mt-xs-30">
-                Prendre soin de tous
+                  Prendre soin de tous
                   <br />
                   <strong> les besoins dentaires de votre famille.</strong>{" "}
                 </h2>

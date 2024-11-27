@@ -4,6 +4,7 @@ import SingleProjectV1 from "./SingleProjectV1";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Keyboard } from "swiper/modules";
 import { useRef } from "react";
+import { HashLink as Link } from "react-router-hash-link";
 
 const ProjectV1 = () => {
   const SlideRef = useRef();
@@ -36,13 +37,19 @@ const ProjectV1 = () => {
                 <div className="content-left">
                   <h5 className="sub-title">Ce que nous offrons</h5>
                   <h2 className="heading">
-                    Notre clinique en Turquie propose une gamme complète de
-                    soins dentaires, y compris des implants dentaires, et est
-                    équipée d'une technologie de pointe. Notre équipe est
-                    composée de certains des meilleurs dentistes de Turquie,
-                    utilisant les dernières techniques médicales pour assurer la
-                    plus haute qualité de soins et de traitement.{" "}
+                    Une clinique en Turquie offrant des soins dentaires
+                    complets, des implants aux dernières techniques médicales,
+                    avec une équipe d’experts et une technologie de pointe pour
+                    des traitements de qualité supérieure.{" "}
                   </h2>
+                </div>
+                <div className="button">
+                  <Link
+                    className="btn btn-theme btn-md animation"
+                    to="#contact-us"
+                  >
+                    Obtenez une consultation gratuite!
+                  </Link>
                 </div>
               </div>
             </div>
