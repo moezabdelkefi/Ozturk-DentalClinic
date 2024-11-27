@@ -18,11 +18,7 @@ const SingleProjectV2 = ({ gallery }) => {
                 <Link to={`/${titleLink}/${id}#`}>{title}</Link>
               </h4>
             </div>
-            <div className="button">
-              <Link to={`/${btnLink}/${id}#`}>
-                <i className={btnIcon}></i>
-              </Link>
-            </div>
+            
           </div>
         </div>
       </div>
